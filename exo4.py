@@ -1,4 +1,5 @@
 import streamlit as st
+st.title("deploiement")
 
 
 st.set_page_config(page_title="CV - Babacar Ndiaye", page_icon="👤", layout="wide")
